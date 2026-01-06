@@ -203,7 +203,7 @@ with st.sidebar:
         st.metric("ROC-AUC", "0.800")
         st.success("✅ Better for medical screening")
     else:
-        st.metric("Recall (Detection)", "7%", delta="-34%", delta_color="inverse")
+        st.metric("Recall (Detection)", "64%", delta="-34%", delta_color="inverse")
         st.metric("Accuracy", "91.1%")
         st.metric("ROC-AUC", "0.834")
         st.warning("⚠️ Misses 93% of heart disease cases")
