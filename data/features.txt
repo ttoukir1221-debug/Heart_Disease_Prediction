@@ -1,0 +1,32 @@
+BMI
+Smoking
+AlcoholDrinking
+Stroke
+PhysicalHealth
+MentalHealth
+DiffWalking
+Sex
+PhysicalActivity
+SleepTime
+Asthma
+KidneyDisease
+SkinCancer
+AgeCategory_Adult
+AgeCategory_Old
+AgeCategory_Very Old
+AgeCategory_Young
+Race_American Indian/Alaskan Native
+Race_Asian
+Race_Black
+Race_Hispanic
+Race_Other
+Race_White
+Diabetic_No
+Diabetic_No, borderline diabetes
+Diabetic_Yes
+Diabetic_Yes (during pregnancy)
+GenHealth_Excellent
+GenHealth_Fair
+GenHealth_Good
+GenHealth_Poor
+GenHealth_Very good
